@@ -1,4 +1,18 @@
 
+ieexcloud.io
+
+
+# sendgrid
+- enables email messaging 
+- configure & deploy to local end gCloud
+
+# devise
+- rich user mgmt package
+- configure & deploy to local end gCloud
+
+
+
+
 
 # install env versions
 
