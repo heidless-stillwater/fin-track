@@ -1,6 +1,23 @@
 
-ieexcloud.io
 
+# app credentials
+
+Admin User: admin|admin@test.com |kkkhjkjkjk
+
+User 1: user1|user1@test.com |password
+
+#########################
+# ieexcloud.io
+
+## current
+lockhart.r@gmail.com
+
+
+## expired
+heidlessemail05@gmail.com
+$Ez4waZ2$w7Xjn#
+
+#########################
 
 # sendgrid
 - enables email messaging 
